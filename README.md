@@ -14,9 +14,9 @@ Each project includes:
 
 | App           | Preview                          |
 |---------------|----------------------------------|
-| ✅ To-Do App   | ![](to-do/Screenshot 2025-07-12 130112.png)   |
+| ✅ To-Do App   | ![](to-do/preview.png)   |
 |                |                                  |
-| 🌦️ Weather App| ![](weather-app/Screenshot 2025-07-12 124645.png)|
+| 🌦️ Weather App| ![](weather-app/preview.png)|
 
 
 > _All previews are from real screenshots of the apps included in this repo._
